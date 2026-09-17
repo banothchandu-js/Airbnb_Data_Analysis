@@ -17,4 +17,4 @@ Airbnb-Data-Analysis/
     ├── reviews_room_type.png
     ├── cancellation_policy.png
     ├── instant_booking.png
-    └── estimated_booking_value.png                    
+    └── estimated_booking_value.png .                   
